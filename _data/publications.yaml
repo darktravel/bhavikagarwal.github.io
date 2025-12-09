@@ -21,12 +21,12 @@ papers:
 
   - title: "Multi-Agent Embedding-Space API Orchestration for Enterprise Assistants"
     authors: "<b><u>Bhavik Agarwal</u></b>, Julien Yu, Anil Babu Ankisettipalli, Sebastien Schrieber"
-    venue: "U.S. Patent Application 19/022,406 (originated at SAP)"
+    venue: "United States Patent 19/022,406 (originated at SAP Labs)"
     selected: y
 
   - title: "Multi-Agent Knowledge Graph Retrieval with Evidence Grounding"
     authors: "<b><u>Bhavik Agarwal</u></b>, Hemant Sunil Jomraj, Simone Kaplunov, Jack Krolick, Viktoria Rojkova"
-    venue: "U.S. Patent Application 19/355,798 (originated at MasterControl)"
+    venue: "United States Patent 19/355,798 (originated at MasterControl AI Research)"
     selected: y
 
   - title: "Taxonomy-based prompt engineering to generate synthetic drug-related patient portal messages"
