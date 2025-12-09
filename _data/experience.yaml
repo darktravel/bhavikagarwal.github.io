@@ -12,7 +12,7 @@ experiences:
   subtitle: "Designed multi-agent embedding-space API orchestration for enterprise assistants (basis for U.S. Patent App. 19/022,406)."
   category: "work"
 
-- place: "Google DeepMind CSRMP"
+- place: "Google DeepMind"
   time: "Aug. 2023 - Feb. 2024"
   title: "Research Mentee"
   subtitle: "Explored compact models and attention budgeting for tool-using LMs and dense retrievers."
@@ -20,7 +20,7 @@ experiences:
 
 - place: "Johns Hopkins University"
   time: "2023 - 2025"
-  title: "Masters in Computer Science - Thesis Research Track"
+  title: "Masters in Computer Science - Thesis Track"
   subtitle: "Advisor: Prof. Casey Overby Taylor; focus on RAG, Knowledge Graph and Multi-Agent for biomedical applications."
   category: "school"
 
