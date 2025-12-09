@@ -6,7 +6,7 @@ experiences:
   subtitle: "Building small, tool-using LMs, multi-agent knowledge-graph RAG, and JSON-faithful generation for regulated QA."
   category: "work"
 
-- place: "Microsoft Research & Johns Hopkins University"
+- place: "Johns Hopkins University"
   time: "Fall 2023 - Spring 2025"
   title: "Graduate Research Assistant"
   subtitle: "Developed Azure-based RAG pipelines and evaluation for genomics/pharmacogenomics patient question answering."
@@ -18,7 +18,7 @@ experiences:
   subtitle: "Designed multi-agent embedding-space API orchestration for enterprise assistants (basis for U.S. Patent App. 19/022,406)."
   category: "work"
 
-- place: "Google DeepMind CS Research Mentorship Program"
+- place: "Google DeepMind CSRMP"
   time: "Fall 2023 - Spring 2024"
   title: "Research Mentee"
   subtitle: "Explored compact models and attention budgeting for tool-using LMs and dense retrievers."
